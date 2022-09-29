@@ -1,3 +1,6 @@
-# markdown annotations
+# Markdown annotations highlight
 
-> **note** test note
+> **Note** test note  
+
+> **Warning** warning note  
+
